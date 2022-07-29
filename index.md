@@ -5,7 +5,7 @@ In this project, I build a car that can be controlled forward, backward, left, o
 |:--:|:--:|:--:|:--:|
 | Aiden Shiu | Lowell High School | Mechanical Engineering | Incoming Senior
 
-![Headstone Image](https://github.com/AidenShiu/BSE_Template_Portfolio/blob/main/branding/BlueStamp%20Engineering%20Logo%20RGB.jpg)
+![Headstone Image](https://static.wixstatic.com/media/d1d841_095ca2fd341e499988531cbf9bc9d2fe~mv2.png/v1/fill/w_1000,h_318,al_c,usm_0.66_1.00_0.01/d1d841_095ca2fd341e499988531cbf9bc9d2fe~mv2.png)
 ![Headstone Image](https://m.media-amazon.com/images/I/71z22cRPeeL._AC_SX466_.jpg)
 ![Headstone Image](https://static.plusivo.com/800-large_default/plusivo-soldering-iron-kit-with-digital-multimeter-110-v-plug-type-us-.jpg)
 # Final Milestone
