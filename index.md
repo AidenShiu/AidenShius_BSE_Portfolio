@@ -5,18 +5,18 @@ In this project, I build a car that can be controlled forward, backward, left, o
 |:--:|:--:|:--:|:--:|
 | Aiden Shiu | Lowell High School | Mechanical Engineering | Incoming Senior
 
-![Headstone Image](https://static.wixstatic.com/media/d1d841_095ca2fd341e499988531cbf9bc9d2fe~mv2.png/v1/fill/w_1000,h_318,al_c,usm_0.66_1.00_0.01/d1d841_095ca2fd341e499988531cbf9bc9d2fe~mv2.png)
-![Headstone Image](https://m.media-amazon.com/images/I/71z22cRPeeL._AC_SX466_.jpg)
-![Headstone Image](https://static.plusivo.com/800-large_default/plusivo-soldering-iron-kit-with-digital-multimeter-110-v-plug-type-us-.jpg)
+![BlueStamp Engineering](https://static.wixstatic.com/media/d1d841_095ca2fd341e499988531cbf9bc9d2fe~mv2.png/v1/fill/w_1000,h_318,al_c,usm_0.66_1.00_0.01/d1d841_095ca2fd341e499988531cbf9bc9d2fe~mv2.png)
+![Arduino](https://m.media-amazon.com/images/I/71z22cRPeeL._AC_SX466_.jpg)
+![Soldering Kit](https://static.plusivo.com/800-large_default/plusivo-soldering-iron-kit-with-digital-multimeter-110-v-plug-type-us-.jpg)
 # Final Milestone
 
 # Second Milestone
 
 # First Milestone
   
-My first milestone was setting up all four car motors and spinning them all at the same time with an Arduino connected to an h-bridge. I ran into some trouble with the wires falling out though that was solved by screwing them into place. Also, the motors didn't all spin at the same time so I needed to fiddle with the code and Arduino pins until they all did. I learned a lot over this week: soldering, electrical, and arduino (code, etc).
+My first milestone was setting up all four car motors and spinning them all at the same time with an Arduino connected to an h-bridge. I ran into some trouble with the wires falling out though that was solved by screwing them into place. Also, the motors didn't all spin at the same time so I needed to fiddle with the code and Arduino pins until they all did. I learned a lot over this week: soldering, electrical, and Arduino (code, etc).
 
-[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=3ywsrFl8mXY)
+[![IMAGE_ALT](https://imgur.com/a/9x7nUnf)](https://www.youtube.com/watch?v=3ywsrFl8mXY)
 
 https://create.arduino.cc/projecthub/shubhamsuresh/how-to-make-a-gesture-control-robot-at-home-a3f4a4
 https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5
