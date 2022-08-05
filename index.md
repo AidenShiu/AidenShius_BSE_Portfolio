@@ -20,3 +20,5 @@ My first milestone was setting up all four car motors and spinning them all at t
 
 https://create.arduino.cc/projecthub/shubhamsuresh/how-to-make-a-gesture-control-robot-at-home-a3f4a4
 https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5
+https://create.arduino.cc/projecthub/MissionCritical/mpu-6050-tutorial-how-to-program-mpu-6050-with-arduino-aee39a
+https://create.arduino.cc/projecthub/RucksikaaR/interfacing-the-hc-06-bluetooth-module-with-arduino-f9c315
