@@ -1,5 +1,5 @@
 ﻿# Gesture-Controlled Car with Accelerometer
-In this project, I build a car that can be controlled forward, backward, left, or right by my hand movements!
+In this project, I build a car that can be controlled by my hand movements! It uses an Arduino and Arduino Micro as well as some DC motors and an MPU6050 accelerometer.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -14,7 +14,7 @@ In this project, I build a car that can be controlled forward, backward, left, o
 
 # First Milestone
   
-My first milestone was setting up all four car motors and spinning them all at the same time with an Arduino connected to an h-bridge. I ran into some trouble with the wires falling out though that was solved by screwing them into place. Also, the motors didn't all spin at the same time so I needed to fiddle with the code and Arduino pins until they all did. I learned a lot over this week: soldering, electrical, and Arduino (code, etc).
+My first milestone was setting up all four car motors and spinning them all simultaneously with an Arduino connected to an h-bridge. I ran into some trouble with the wires falling out, which was solved by screwing them into place. Also, the motors wouldn't all spin at the same time so I needed to fiddle with the code and Arduino pins until they all did. I learned a lot over this week. I had to solder the wires onto the motors and use Arduino IDE to make the motors spin.
 
 [![IMAGE_ALT](https://i.ibb.co/3p98YdN/thumbnail.png)](https://www.youtube.com/watch?v=3ywsrFl8mXY){:target="_blank" rel="noopener"}
 
