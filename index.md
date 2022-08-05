@@ -16,7 +16,7 @@ In this project, I build a car that can be controlled by my hand movements! It u
   
 My first milestone was setting up all four car motors and spinning them all simultaneously with an Arduino connected to an h-bridge. I ran into some trouble with the wires falling out, which was solved by screwing them into place. Also, the motors wouldn't all spin at the same time so I needed to fiddle with the code and Arduino pins until they all did. I learned a lot over this week. I had to solder the wires onto the motors and use Arduino IDE to make the motors spin.
 
-[![IMAGE_ALT](https://i.ibb.co/3p98YdN/thumbnail.png)](https://www.youtube.com/watch?v=3ywsrFl8mXY){:target="_blank" rel="noopener"}
+[![IMAGE_ALT](https://ibb.co/D49ByT4/Thumbnail.jpg)](https://www.youtube.com/watch?v=3ywsrFl8mXY){:target="_blank" rel="noopener"}
 
 https://create.arduino.cc/projecthub/shubhamsuresh/how-to-make-a-gesture-control-robot-at-home-a3f4a4
 https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5
