@@ -6,11 +6,14 @@ In this project, I build a car that can be controlled by my hand movements! It u
 | Aiden Shiu | Lowell High School | Mechanical Engineering | Incoming Senior
 
 ![BlueStamp Engineering](https://static.wixstatic.com/media/d1d841_095ca2fd341e499988531cbf9bc9d2fe~mv2.png/v1/fill/w_1000,h_318,al_c,usm_0.66_1.00_0.01/d1d841_095ca2fd341e499988531cbf9bc9d2fe~mv2.png)
-![Arduino](https://m.media-amazon.com/images/I/71z22cRPeeL._AC_SX466_.jpg)
-![Soldering Kit](https://static.plusivo.com/800-large_default/plusivo-soldering-iron-kit-with-digital-multimeter-110-v-plug-type-us-.jpg)
+![Schematic](https://i.ibb.co/yXN41xk/Schematic-V1.png)
 # Final Milestone
 
 # Second Milestone
+
+My second milestone was getting the accelerometer/gyroscope to work and produce values in the serial monitor. I also did the breadboard configurations for Bluetooth modules and am taking steps to connect them. Challenges that often came up were not selecting the right board or port in Arduino IDE or putting the wrong pins/wires for SCL and SDA. I learned a lot over this week like wiring/circuits -> had to make resistors in a 1:2 ratio. Also, the code for Arduino boards and the MPU 6050. 
+
+[![IMAGE_ALT](https://i.ibb.co/YNkHzq1/Thumbnail2.jpg)](https://www.youtube.com/watch?v=pNDEMt8qtAY){:target="_blank" rel="noopener"}
 
 # First Milestone
   
