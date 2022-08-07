@@ -25,3 +25,4 @@ https://create.arduino.cc/projecthub/shubhamsuresh/how-to-make-a-gesture-control
 https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5
 https://create.arduino.cc/projecthub/MissionCritical/mpu-6050-tutorial-how-to-program-mpu-6050-with-arduino-aee39a
 https://create.arduino.cc/projecthub/RucksikaaR/interfacing-the-hc-06-bluetooth-module-with-arduino-f9c315
+https://docs.google.com/document/d/129GrxjuClSyWmbEPe6VwU3c2hFJH28iS/edit?rtpof=true
