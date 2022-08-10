@@ -12,7 +12,7 @@ In this project, I build a car that can be controlled by my hand movements! It u
 
 My final milestone was the completion of my gesture-controlled car. I managed to connect the Bluetooth modules and transfer data using code that read and wrote gyroscope data. The car unit's code read that and started/stopped the motors accordingly. Some challenges were letting data get transferred from one module to the other and the motors stopping while trying to start. I solved the data transfer by supplementing the text data transfer code for HC05 communication into if statements to both units' codes: the motors would start if the gyroscope data was within a certain range. The motors stopping was solved by making the stop command activate on the condition of all values other than those covered by the directions (all values less than the directions being registered to stop the motors).
 
-[![IMAGE_ALT](https://i.ibb.co/61MNT7F/Thumbnail3.jpg)](https://www.youtube.com/watch?v=DxrUu24UcGs){:target="_blank" rel="noopener"}
+[![IMAGE_ALT](https://i.ibb.co/61MNT7F/Thumbnail3.jpg)](https://youtu.be/z79fxv7lb4Q){:target="_blank" rel="noopener"}
 
 # Second Milestone
 
