@@ -5,9 +5,34 @@ In this project, I build a car that can be controlled by my hand movements! It u
 |:--:|:--:|:--:|:--:|
 | Aiden Shiu | Lowell High School | Mechanical Engineering | Incoming Senior
 
+![Project](https://i.ibb.co/XFLxJ90/IMG-8334.jpg)
+![Me](https://i.ibb.co/qrV6TLp/Me.jpg)
 ![BlueStamp Engineering](https://static.wixstatic.com/media/d1d841_095ca2fd341e499988531cbf9bc9d2fe~mv2.png/v1/fill/w_1000,h_318,al_c,usm_0.66_1.00_0.01/d1d841_095ca2fd341e499988531cbf9bc9d2fe~mv2.png)
 ![Schematic](https://i.ibb.co/yXN41xk/Schematic-V1.png)
 ![CAD](https://i.ibb.co/0yPRhBd/CAD-V1.png)
+
+Bill of Materials:
+- Arduino Uno, Arduino Micro
+- HC 05 Bluetooth Module x2
+- Wires x34
+- 10k ohm resistors x7
+- Breadboard x2
+- 5v/1A mobile phone charger x2
+- L298N motor driver
+- MPU 6050 accelerometer
+- Battery holder (AA battery x4)
+- USB Cable A to B Cord
+- USB Micro
+- LED
+- Tape
+- Screws x14
+- Nuts x14
+- Screw mounting spacers x6
+- Wheels x4
+- Motors x4
+- Car frame x2, motor tabs x8
+^ Tools: soldering kit (+ filament), screwdriver, Arduino IDE
+
 # Final Milestone
 
 My final milestone was the completion of my gesture-controlled car. I managed to connect the Bluetooth modules and transfer data using code that read and wrote gyroscope data. The car unit's code read that and started/stopped the motors accordingly. Some challenges were letting data get transferred from one module to the other and the motors stopping while trying to start. I solved the data transfer by supplementing the text data transfer code for HC05 communication into if statements to both units' codes: the motors would start if the gyroscope data was within a certain range. The motors stopping was solved by making the stop command activate on the condition of all values other than those covered by the directions (all values less than the directions being registered to stop the motors).
