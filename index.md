@@ -36,7 +36,8 @@ Bill of Materials (Tools: soldering kit (+ filament), screwdriver, Arduino IDE):
 
 My final milestone was the completion of my gesture-controlled car. I managed to connect the Bluetooth modules and transfer data using code that read and wrote gyroscope data. The car unit's code read that and started/stopped the motors accordingly. Some challenges were letting data get transferred from one module to the other and the motors stopping while trying to start. I solved the data transfer by supplementing the text data transfer code for HC05 communication into if statements to both units' codes: the motors would start if the gyroscope data was within a certain range. The motors stopping was solved by making the stop command activate on the condition of all values other than those covered by the directions (all values less than the directions being registered to stop the motors).
 
-[![IMAGE_ALT](https://i.ibb.co/61MNT7F/Thumbnail3.jpg)](https://youtu.be/z79fxv7lb4Q){:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z79fxv7lb4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Demo Night Presentation: https://docs.google.com/presentation/d/1ZVHzbN6flsaTkyChQDTGXWUFQCs_jenud-zdLmrFD3s/edit?usp=sharing
 
@@ -44,15 +45,15 @@ Demo Night Presentation: https://docs.google.com/presentation/d/1ZVHzbN6flsaTkyC
 
 My second milestone was getting the accelerometer/gyroscope to work and produce values in the serial monitor. I also did the breadboard configurations for Bluetooth modules and am taking steps to connect them. Challenges that often came up were not selecting the right board or port in Arduino IDE or putting the wrong pins/wires for SCL and SDA pins. I learned a lot over this week about wiring/circuits -> had to make resistors in a 1:2 ratio (since I used 10kohm resistors I put two in parallel on the car unit breadboard to make a 1:2 ratio with the other 10kohm resistor—R_eq=(((1/10,000)+(1/10,000))^(-1))=5,000ohms). Also, I learned about the code for Arduinos, libraries, and the MPU 6050. 
 
-[![IMAGE_ALT](https://i.ibb.co/YNkHzq1/Thumbnail2.jpg)](https://www.youtube.com/watch?v=pNDEMt8qtAY){:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pNDEMt8qtAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # First Milestone
   
 My first milestone was setting up all four car motors and spinning them all simultaneously with an Arduino connected to an L298N motor driver. I ran into some trouble with the wires falling out, which was solved by screwing them into place. Also, the motors wouldn't all spin at the same time so I needed to fiddle with the code and Arduino pins until they all did. I learned a lot over this week. I had to solder the wires onto the motors and use Arduino IDE to make the motors spin.
 
-//[![IMAGE_ALT](https://i.ibb.co/Mncz4Qn/Thumbnail.jpg)](https://www.youtube.com/watch?v=3ywsrFl8mXY){:target="_blank" rel="noopener"}
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ywsrFl8mXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # Tutorial Links Used
 
