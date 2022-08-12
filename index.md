@@ -11,7 +11,7 @@ In this project, I build a car that can be controlled by my hand movements! It u
 ![Schematic](https://i.ibb.co/yXN41xk/Schematic-V1.png)
 ![CAD](https://i.ibb.co/0yPRhBd/CAD-V1.png)
 
-Bill of Materials:
+Bill of Materials (Tools: soldering kit (+ filament), screwdriver, Arduino IDE):
 - Arduino Uno, Arduino Micro
 - HC 05 Bluetooth Module x2
 - Wires x34
@@ -31,7 +31,6 @@ Bill of Materials:
 - Wheels x4
 - Motors x4
 - Car frame x2, motor tabs x8
-^ Tools: soldering kit (+ filament), screwdriver, Arduino IDE
 
 # Final Milestone
 
