@@ -1,5 +1,5 @@
 ﻿# Gesture-Controlled Car with Accelerometer
-In this project, I build a car that can be controlled by my hand movements! It uses an Arduino and Arduino Micro as well as some DC motors and an MPU6050 accelerometer.
+In this project, I build a car that can be controlled by my hand movements!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
