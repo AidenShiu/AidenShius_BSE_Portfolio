@@ -46,14 +46,14 @@ Demo Night Presentation: https://docs.google.com/presentation/d/1ZVHzbN6flsaTkyC
 My second milestone was getting the accelerometer/gyroscope to work and produce values in the serial monitor. I also did the breadboard configurations for Bluetooth modules and am taking steps to connect them. Challenges that often came up were not selecting the right board or port in Arduino IDE or putting the wrong pins/wires for SCL and SDA pins. I learned a lot over this week about wiring/circuits -> had to make resistors in a 1:2 ratio (since I used 10kohm resistors I put two in parallel on the car unit breadboard to make a 1:2 ratio with the other 10kohm resistor—R_eq=(((1/10,000)+(1/10,000))^(-1))=5,000ohms). Also, I learned about the code for Arduinos, libraries, and the MPU 6050. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pNDEMt8qtAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br />
 
 # First Milestone
   
 My first milestone was setting up all four car motors and spinning them all simultaneously with an Arduino connected to an L298N motor driver. I ran into some trouble with the wires falling out, which was solved by screwing them into place. Also, the motors wouldn't all spin at the same time so I needed to fiddle with the code and Arduino pins until they all did. I learned a lot over this week. I had to solder the wires onto the motors and use Arduino IDE to make the motors spin.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ywsrFl8mXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br />
 
 # Tutorial Links Used
 
