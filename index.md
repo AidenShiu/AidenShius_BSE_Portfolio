@@ -11,6 +11,11 @@ In this project, I build a car that can be controlled by my hand movements!
 ![Schematic](https://i.ibb.co/yXN41xk/Schematic-V1.png)
 ![CAD](https://i.ibb.co/0yPRhBd/CAD-V1.png)
 
+Demo Night Presentation: https://docs.google.com/presentation/d/1ZVHzbN6flsaTkyChQDTGXWUFQCs_jenud-zdLmrFD3s/edit?usp=sharing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aK6Ukp75eJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+
 Bill of Materials (Tools: soldering kit (+ filament), screwdriver, Arduino IDE):
 - Arduino Uno, Arduino Micro
 - HC 05 Bluetooth Module x2
@@ -37,9 +42,7 @@ Bill of Materials (Tools: soldering kit (+ filament), screwdriver, Arduino IDE):
 My final milestone was the completion of my gesture-controlled car. I managed to connect the Bluetooth modules and transfer data using code that read and wrote gyroscope data. The car unit's code read that and started/stopped the motors accordingly. Some challenges were letting data get transferred from one module to the other and the motors stopping while trying to start. I solved the data transfer by supplementing the text data transfer code for HC05 communication into if statements to both units' codes: the motors would start if the gyroscope data was within a certain range. The motors stopping was solved by making the stop command activate on the condition of all values other than those covered by the directions (all values less than the directions being registered to stop the motors).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z79fxv7lb4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-Demo Night Presentation: https://docs.google.com/presentation/d/1ZVHzbN6flsaTkyChQDTGXWUFQCs_jenud-zdLmrFD3s/edit?usp=sharing
+<br />
 
 # Second Milestone
 
