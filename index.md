@@ -3,7 +3,7 @@ In this project, I build a car that can be controlled by my hand movements!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Aiden Shiu | Lowell High School | Mechanical Engineering | Incoming Senior
+| Aiden Shiu | Lowell High School | Mechanical Engineering | Senior
 
 ![Project](https://i.ibb.co/XFLxJ90/IMG-8334.jpg)
 ![Me](https://i.ibb.co/qrV6TLp/Me.jpg)
